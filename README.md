@@ -1,4 +1,4 @@
-[![MasterHead](https://w7.pngwing.com/pngs/42/979/png-transparent-web-development-responsive-web-design-web-banner-web-design-web-design-search-engine-optimization-computer-monitor-accessory.png)](https://rishavchanda.io)
+[![MasterHead](https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-blue-minimalist-technology-computer-banner-image_188887.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm caio Favaro</h1>
 <h3 align="center">A passionate developer from Brasil</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
