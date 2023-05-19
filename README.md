@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiofavaro&label=Profile%20views&color=0e75b6&style=flat" alt="caiofavaro" /> </p>
 
-- 🔭 I’m currently working on **My website**
+- 🔭 I’m currently working on **My projects**
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **SQL**
 
 - 📫 How to reach me **caiofavaro27@gmail.com**
 
