@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My website**
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **C++**
 
